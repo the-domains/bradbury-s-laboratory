@@ -1,0 +1,28 @@
+name: "Bradbury's Laboratory"
+favicon: null
+layout_spectrum: 0.385698082158342
+typography_spectrum: 0.23865604540333152
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9198380871675909
+  lightness: 0.6063556643202901
+  saturation: 0.8113501409534365
+  rhythmicContrast: 0.6329976019915193
+purpose: []

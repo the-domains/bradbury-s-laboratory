@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Bradbury's Laboratory]]></title>
         <description><![CDATA[Bradbury's Laboratory]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bradbury-s-laboratory/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 03:11:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Apr 2016 03:18:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bradbury-s-laboratory/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Life in Science]]></title>
             <description><![CDATA[<article><h1>Life in Science</h1><p>Life is Science </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6447e983-3ac7-450c-b399-32d8beb249c6.jpg"></article>]]></description>
-            <link>undefinedlife-in-science/index.html</link>
+            <link>https://thegrid.ai/bradbury-s-laboratory/life-in-science/index.html</link>
             <guid isPermaLink="false">01e4316b-b474-43c7-8cc7-7cb985a8ac64</guid>
-            <pubDate>Sat, 16 Apr 2016 03:10:37 GMT</pubDate>
+            <pubDate>Sat, 16 Apr 2016 03:18:58 GMT</pubDate>
         </item>
     </channel>
 </rss>

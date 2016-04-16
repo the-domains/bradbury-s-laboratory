@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Life is Science\_"
-datePublished: '2016-04-16T03:10:37.233Z'
-dateModified: '2016-04-16T03:09:52.475Z'
+datePublished: '2016-04-16T03:18:58.798Z'
+dateModified: '2016-04-16T03:18:36.527Z'
 title: Life in Science
 author: []
 authors: []

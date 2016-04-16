@@ -1,7 +1,7 @@
 name: "Bradbury's Laboratory"
 favicon: null
-layout_spectrum: 0.385698082158342
-typography_spectrum: 0.23865604540333152
+layout_spectrum: 0
+typography_spectrum: 0.76813
 cta:
   domain: null
   bucket: null

@@ -1,6 +1,6 @@
-name: "Bradbury's Laboratory"
+name: Bradbury's Laboratory
 favicon: null
-layout_spectrum: 0.4956
+layout_spectrum: 0.00867
 typography_spectrum: 0.76813
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.9198380871675909
-  lightness: 0.6063556643202901
-  saturation: 0.8113501409534365
-  rhythmicContrast: 0.75
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
